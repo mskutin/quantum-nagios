@@ -96,3 +96,6 @@ Because we configured Apache to use htpasswd, you must enter the login credentia
 ![image](https://cloud.githubusercontent.com/assets/11622907/17588052/da7def44-5ffe-11e6-8cbd-75d140762d9b.png)
 
 ![image](https://assets.digitalocean.com/articles/nagios/hosts_link.png)
+
+Next part is
+ [NSClient++](https://github.com/mskutin/quantum-nagios/blob/master/nsclient_install.md) configuration.

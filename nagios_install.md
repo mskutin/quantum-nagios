@@ -171,3 +171,5 @@ sudo service xinetd restart
 ```
 
 Now that Nagios 4 is installed, we need to configure it.
+Next part is
+[Nagios Core Configuration.](https://github.com/mskutin/quantum-nagios/blob/master/nagios_config.md)
