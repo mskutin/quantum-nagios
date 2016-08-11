@@ -2,7 +2,7 @@
 
 1. [Nagios Core Installation](https://github.com/mskutin/quantum-nagios/blob/master/nagios_install.md)
 2. [Nagios Core Configuration](https://github.com/mskutin/quantum-nagios/blob/master/nagios_config.md)
-3. [NSClient++](https://github.com/mskutin/quantum-nagios/blob/master/nsclient_install.md)
+3. [NSClient++](https://github.com/mskutin/quantum-nagios/blob/master/nsclient.md)
 
 To follow this tutorial, you must have superuser privileges on the Ubuntu 14.04 server that will run Nagios. Ideally, you will be using a non-root user with superuser privileges.
 
